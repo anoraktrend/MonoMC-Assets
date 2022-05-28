@@ -4,8 +4,7 @@ Branding assets for forks of MultiMC distributed by unsupported distros. Similar
 This repository will also contain or link to guides and patches to build your own variation of MonoMC.
 
 Feel free to add your own designs via pull requests. Currently looking for unique icons for Void Linux, Mageia, and others. Pull requests that modify the already existing logos are also accepted, provided they're SVGs and are vectorized. Guide and Patches will only be accepted from trusted sources for the sake of security.
-I also tend to use Discord as my main platform for communication for a variety of reasons, and as such i've created a server for this project. https://discord.gg/YVf3JH5HZ7
-
+I also tend to use Discord as my main platform for communication for a variety of reasons, and as such i've created a server for this project. [Discord Expunged and deleted]
 
 # Current Logos
 ![MonoMC-Main](https://user-images.githubusercontent.com/19198652/134674243-72d3d41e-d1fe-4d1c-8847-7a9d901922cb.png)
